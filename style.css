@@ -32,6 +32,10 @@ nav li {
     text-decoration: underline;
 }
 
+a {
+  color: white;
+}
+
 header {
     position: relative;
     top: 3rem;
